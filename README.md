@@ -9,8 +9,6 @@ MiniTorch demonstrates the foundational concepts behind PyTorch / TensorFlow —
 system**, **optimizers**, and **loss functions** — all implemented in pure
 Python with a single dependency (NumPy).
 
-> ⚡ **Interview-ready** — every line is documented; every gradient is checked.
-
 ---
 
 ## ✨ Features
