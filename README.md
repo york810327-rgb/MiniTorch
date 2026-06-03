@@ -153,7 +153,7 @@ MiniTorch includes a rigorous test suite (59 tests):
 
 ---
 
-## 🔬 Why This Matters for Interviews
+## 🔬 MiniTorch: Concepts vs. Implementation Mapping
 
 | Concept Demonstrated         | How MiniTorch Shows It                              |
 |------------------------------|-----------------------------------------------------|
